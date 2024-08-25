@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Das</h1>
 <h3 align="center">A passionate WEB developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://dayatech.us/images/resource/website-development.gif)">
+<img align="right" alt="coding" width="400" src="[[https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://dayatech.us/images/resource/website-development.gif)](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bhnfloxpo5pjpdf2u2i3h508a7ukscb97wm4ssn64&ep=v1_gifs_related&rid=200w.gif&ct=g)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakdas7978&label=Profile%20views&color=0e75b6&style=flat" alt="deepakdas7978" /> </p>
 
